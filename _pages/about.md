@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://github.com/Vicent0205), supervised by Professor Junxian He. My research focuses on natural language processing and machine learning.
+I am a first-year Ph.D. candidate at the HKUST NLP Group, supervised by Professor Junxian He. My research focuses on natural language processing and machine learning.
 
 Prior to joining HKUST, I completed my undergraduate studies at Shanghai Jiao Tong University (SJTU), where I graduated in June 2024 and received the Zhiyuan Honor Scholarship. During my undergraduate studies, I was also advised by Professor Junxian He.
 
